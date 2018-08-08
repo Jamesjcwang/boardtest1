@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Nordic" />
+		<Option pch_mode="2" />
+		<Option compiler="arm-elf-gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Nordic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="arm-elf-gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Nordic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="arm-elf-gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="gcc_startup_nrf52.s" />
+		<Unit filename="library/Application/Header/I_test.h" />
+		<Unit filename="library/Application/Source/test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Communication/Header/I_Flash.h" />
+		<Unit filename="library/Communication/Header/I_GetShaID.h" />
+		<Unit filename="library/Communication/Header/I_PT.h" />
+		<Unit filename="library/Communication/Header/I_ProtectionICModule.h" />
+		<Unit filename="library/Communication/Header/I_UARTTXRX.h" />
+		<Unit filename="library/Communication/Source/Flash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Communication/Source/GetShaID.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Communication/Source/PT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Communication/Source/ProtectionICModule.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Communication/Source/UARTTXRX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Component/Header/I_CRC.h" />
+		<Unit filename="library/Component/Header/I_DataStruct.h" />
+		<Unit filename="library/Component/Header/I_Delayobject.h" />
+		<Unit filename="library/Component/Header/I_Model.h" />
+		<Unit filename="library/Component/Source/CRC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Component/Source/DataStruct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Component/Source/Delayobject.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Component/Source/Model.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Fixedfile/compiler_abstraction.h" />
+		<Unit filename="library/Fixedfile/core_cm4.h" />
+		<Unit filename="library/Fixedfile/core_cmFunc.h" />
+		<Unit filename="library/Fixedfile/core_cmInstr.h" />
+		<Unit filename="library/Fixedfile/core_cmSimd.h" />
+		<Unit filename="library/Fixedfile/nrf.h" />
+		<Unit filename="library/Fixedfile/nrf52.h" />
+		<Unit filename="library/Fixedfile/nrf52_bitfields.h" />
+		<Unit filename="library/Fixedfile/nrf_gpiote.h" />
+		<Unit filename="library/Fixedfile/nrf_power.h" />
+		<Unit filename="library/Physic/Header/I_ADC.h" />
+		<Unit filename="library/Physic/Header/I_I2C.h" />
+		<Unit filename="library/Physic/Header/I_IO.h" />
+		<Unit filename="library/Physic/Header/I_Int.h" />
+		<Unit filename="library/Physic/Header/I_Power.h" />
+		<Unit filename="library/Physic/Header/I_SPIM.h" />
+		<Unit filename="library/Physic/Header/I_Timer.h" />
+		<Unit filename="library/Physic/Header/I_UART.h" />
+		<Unit filename="library/Physic/Source/ADC.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Physic/Source/I_I2C.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Physic/Source/I_IO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Physic/Source/I_Int.C">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Physic/Source/I_SPIM.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Physic/Source/I_Timer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/Physic/Source/I_UART.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/compiler_abstraction.h" />
+		<Unit filename="library/core_cm4.h" />
+		<Unit filename="library/core_cmFunc.h" />
+		<Unit filename="library/core_cmInstr.h" />
+		<Unit filename="library/core_cmSimd.h" />
+		<Unit filename="library/nrf.h" />
+		<Unit filename="library/nrf52.h" />
+		<Unit filename="library/nrf52_bitfields.h" />
+		<Unit filename="library/nrf_gpiote.h" />
+		<Unit filename="library/nrf_power.h" />
+		<Unit filename="library/system_nrf52.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="library/system_nrf52.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

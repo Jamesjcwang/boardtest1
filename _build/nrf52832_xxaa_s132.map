@@ -1,0 +1,1497 @@
+Archive member included because of file (symbol)
+
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o) (_exit)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+                              _build/ADC.o (malloc)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memcpy.o)
+                              _build/SEGGER_RTT.o (memcpy)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-freer.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o) (_free_r)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o) (_malloc_r)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strcpy.o)
+                              _build/SEGGER_RTT.o (strcpy)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strlen.o)
+                              _build/SEGGER_RTT.o (strlen)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o) (errno)
+d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
+                              d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+
+Allocating common symbols
+Common symbol       size              file
+
+sha_modelcomp       0x4               _build/main.o
+delaylist           0xc               _build/main.o
+sha_crccomp         0x4               _build/main.o
+step_vbat           0x4               _build/main.o
+test_crccomp        0x4               _build/main.o
+_tempdeviceid2      0x4               _build/test.o
+uart_listcomp       0x4               _build/main.o
+uarttxrxcomp        0x8               _build/main.o
+_count1             0x4               _build/main.o
+uart_uartcomp       0x4               _build/main.o
+_i                  0x1               _build/test.o
+_tempuartreceivedata
+                    0x4               _build/main.o
+j                   0x4               _build/main.o
+UARTComponent       0xc               _build/main.o
+test_intcomp        0x4               _build/main.o
+_flaggetshasn       0x1               _build/main.o
+crccomp             0x8               _build/main.o
+flash_iocomponent   0x4               _build/main.o
+_s1                 0x4               _build/main.o
+pt_modelcomp        0x4               _build/main.o
+Timer_frequency     0x4               _build/main.o
+Timer_intcontroller
+                    0x4               _build/main.o
+I2C_intcontroller   0x4               _build/main.o
+errno               0x4               d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+I2CComponent        0x18              _build/main.o
+shacomponent        0x8               _build/main.o
+flashlist           0xc               _build/main.o
+flash_delaycomponent
+                    0x4               _build/main.o
+pt_spicomponent     0x4               _build/main.o
+flash_modelcomp     0x4               _build/main.o
+_tempcount          0x1               _build/main.o
+pt_listcomp         0x4               _build/main.o
+pro_crccomp         0x4               _build/main.o
+DelayComponent      0x8               _build/main.o
+test_adccomp        0x4               _build/main.o
+_f5                 0x4               _build/main.o
+sha_iocomponent     0x4               _build/main.o
+_temppowerflag      0x4               _build/main.o
+test_powercomp      0x4               _build/main.o
+uart_modelcomp      0x4               _build/main.o
+_flagvbat           0x4               _build/main.o
+_rx_suspend         0x4               _build/I_UART.o
+pro_listcomp        0x4               _build/main.o
+l                   0x4               _build/main.o
+k                   0x4               _build/main.o
+devicemsbbits       0x4               _build/main.o
+_f2                 0x4               _build/main.o
+_tempadd            0x4               _build/main.o
+sha_delaycomponent  0x4               _build/main.o
+modelindex          0x8               _build/main.o
+_flagadcstarted     0x4               _build/main.o
+modelcomponent      0xc               _build/main.o
+_buffer             0x4               _build/main.o
+model_crccomp       0x4               _build/main.o
+_flaggetADCvalue    0x4               _build/main.o
+uartlist            0xc               _build/main.o
+pro_modelcomp       0x4               _build/main.o
+pt_crccomp          0x4               _build/main.o
+pt_delaycomponent   0x4               _build/main.o
+_p                  0x4               _build/main.o
+testcomp            0x4               _build/main.o
+devicelsbbits       0x4               _build/main.o
+_flagadcend         0x4               _build/main.o
+uart_crccomp        0x4               _build/main.o
+_flaguarttxfinish   0x4               _build/main.o
+structindex         0x3c              _build/main.o
+CRC_listcomp        0x4               _build/main.o
+pro_iocomponent     0x4               _build/main.o
+i                   0x4               _build/main.o
+uartparalist        0x4               _build/main.o
+modellist           0xc               _build/main.o
+ADCComponent        0x4               _build/main.o
+ADC_intcontroller   0x4               _build/main.o
+_flaggetflashid     0x1               _build/main.o
+testpara            0x60              _build/main.o
+_tempintflag        0x4               _build/test.o
+pro_delaycomponent  0x4               _build/main.o
+ADC_bufferptr       0x4               _build/main.o
+ptcomp              0x8               _build/main.o
+pro_i2component     0x4               _build/main.o
+Delay_timercomp     0x4               _build/main.o
+listcomp            0x14              _build/main.o
+prolist             0xc               _build/main.o
+ptlist              0xc               _build/main.o
+shalist             0xc               _build/main.o
+_temps              0x4               _build/main.o
+POWERComponent      0x18              _build/main.o
+crclist             0xc               _build/CRC.o
+_f6                 0x4               _build/main.o
+INTComponent        0x14              _build/main.o
+_tempc              0x4               _build/main.o
+uart_iocomp         0x4               _build/main.o
+UART_intcontroller  0x4               _build/main.o
+uart_delaycomp      0x4               _build/main.o
+model_listcomp      0x4               _build/main.o
+exflashcomponent    0x8               _build/main.o
+_flagprotectic      0x4               _build/main.o
+_tempbyte           0x1               _build/main.o
+TimerComponent      0x18              _build/main.o
+_flaggetdeviceid    0x4               _build/main.o
+_flaguarttest       0x4               _build/main.o
+_flaginttest        0x4               _build/main.o
+_f                  0x4               _build/main.o
+_f1                 0x4               _build/main.o
+IOComponent         0xc               _build/main.o
+test_modelcomp      0x4               _build/main.o
+flash_crccomp       0x4               _build/main.o
+sha_listcomp        0x4               _build/main.o
+_buffer2            0x4               _build/main.o
+SPIMComponent       0x10              _build/main.o
+_flagi2creset       0x4               _build/main.o
+test_iocomp         0x4               _build/main.o
+SPIM_intcontroller  0x4               _build/main.o
+sha_i2component     0x4               _build/main.o
+Power_intcontroller
+                    0x4               _build/main.o
+_f3                 0x4               _build/main.o
+_SEGGER_RTT         0x78              _build/SEGGER_RTT.o
+m                   0x4               _build/main.o
+_tempdeviceid1      0x4               _build/test.o
+flash_spicomponent  0x4               _build/main.o
+ProtectionICComponent
+                    0x8               _build/main.o
+_flagpowerrailcheck
+                    0x4               _build/main.o
+flash_listcomp      0x4               _build/main.o
+_f4                 0x4               _build/main.o
+Delay_listcomp      0x4               _build/main.o
+pt_iocomponent      0x4               _build/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 _build/main.o
+ .data          0x00000000        0x0 _build/main.o
+ .bss           0x00000000        0x0 _build/main.o
+ .text          0x00000000        0x0 _build/I_Int.o
+ .data          0x00000000        0x0 _build/I_Int.o
+ .bss           0x00000000        0x0 _build/I_Int.o
+ .text          0x00000000        0x0 _build/ADC.o
+ .data          0x00000000        0x0 _build/ADC.o
+ .bss           0x00000000        0x0 _build/ADC.o
+ .text.getstepadc
+                0x00000000       0x10 _build/ADC.o
+ .text          0x00000000        0x0 _build/Delayobject.o
+ .data          0x00000000        0x0 _build/Delayobject.o
+ .bss           0x00000000        0x0 _build/Delayobject.o
+ .text          0x00000000        0x0 _build/Flash.o
+ .data          0x00000000        0x0 _build/Flash.o
+ .bss           0x00000000        0x0 _build/Flash.o
+ .text          0x00000000        0x0 _build/GetShaID.o
+ .data          0x00000000        0x0 _build/GetShaID.o
+ .bss           0x00000000        0x0 _build/GetShaID.o
+ .text          0x00000000        0x0 _build/I_UART.o
+ .data          0x00000000        0x0 _build/I_UART.o
+ .bss           0x00000000        0x0 _build/I_UART.o
+ .text._UART_Suspend
+                0x00000000       0x44 _build/I_UART.o
+ COMMON         0x00000000        0x4 _build/I_UART.o
+ .text          0x00000000        0x0 _build/UARTTXRX.o
+ .data          0x00000000        0x0 _build/UARTTXRX.o
+ .bss           0x00000000        0x0 _build/UARTTXRX.o
+ .text          0x00000000        0x0 _build/Model.o
+ .data          0x00000000        0x0 _build/Model.o
+ .bss           0x00000000        0x0 _build/Model.o
+ .text          0x00000000        0x0 _build/test.o
+ .data          0x00000000        0x0 _build/test.o
+ .bss           0x00000000        0x0 _build/test.o
+ .text.gpiote_handler1
+                0x00000000       0x20 _build/test.o
+ .text.GPIOinttest
+                0x00000000        0x4 _build/test.o
+ COMMON         0x00000000       0x10 _build/test.o
+ .text          0x00000000        0x0 _build/I_I2C.o
+ .data          0x00000000        0x0 _build/I_I2C.o
+ .bss           0x00000000        0x0 _build/I_I2C.o
+ .text.nrf_twi_disable
+                0x00000000        0x8 _build/I_I2C.o
+ .text.nrf_twi_pins_get
+                0x00000000       0x10 _build/I_I2C.o
+ .text.nrf_twi_address_get
+                0x00000000        0x8 _build/I_I2C.o
+ .text.I2C1Handler
+                0x00000000       0xc0 _build/I_I2C.o
+ .bss.isi2cbusy
+                0x00000000        0x4 _build/I_I2C.o
+ .text          0x00000000        0x0 _build/I_Timer.o
+ .data          0x00000000        0x0 _build/I_Timer.o
+ .bss           0x00000000        0x0 _build/I_Timer.o
+ .text          0x00000000        0x0 _build/I_IO.o
+ .data          0x00000000        0x0 _build/I_IO.o
+ .bss           0x00000000        0x0 _build/I_IO.o
+ .text          0x00000000        0x0 _build/I_SPIM.o
+ .data          0x00000000        0x0 _build/I_SPIM.o
+ .bss           0x00000000        0x0 _build/I_SPIM.o
+ .text.SPI0Handler
+                0x00000000       0x24 _build/I_SPIM.o
+ .text.SPI2Handler
+                0x00000000       0x24 _build/I_SPIM.o
+ .text          0x00000000        0x0 _build/CRC.o
+ .data          0x00000000        0x0 _build/CRC.o
+ .bss           0x00000000        0x0 _build/CRC.o
+ .text          0x00000000        0x0 _build/PT.o
+ .data          0x00000000        0x0 _build/PT.o
+ .bss           0x00000000        0x0 _build/PT.o
+ .text          0x00000000        0x0 _build/DataStruct.o
+ .data          0x00000000        0x0 _build/DataStruct.o
+ .bss           0x00000000        0x0 _build/DataStruct.o
+ .text          0x00000000        0x0 _build/ProtectionICModule.o
+ .data          0x00000000        0x0 _build/ProtectionICModule.o
+ .bss           0x00000000        0x0 _build/ProtectionICModule.o
+ .text          0x00000000        0x0 _build/system_nrf52.o
+ .data          0x00000000        0x0 _build/system_nrf52.o
+ .bss           0x00000000        0x0 _build/system_nrf52.o
+ .text          0x00000000        0x0 _build/RTT_Syscalls_GCC.o
+ .data          0x00000000        0x0 _build/RTT_Syscalls_GCC.o
+ .bss           0x00000000        0x0 _build/RTT_Syscalls_GCC.o
+ .text._write   0x00000000       0x10 _build/RTT_Syscalls_GCC.o
+ .text._write_r
+                0x00000000       0x14 _build/RTT_Syscalls_GCC.o
+ .comment       0x00000000       0x71 _build/RTT_Syscalls_GCC.o
+ .ARM.attributes
+                0x00000000       0x39 _build/RTT_Syscalls_GCC.o
+ .text          0x00000000        0x0 _build/SEGGER_RTT.o
+ .data          0x00000000        0x0 _build/SEGGER_RTT.o
+ .bss           0x00000000        0x0 _build/SEGGER_RTT.o
+ .text._PostTerminalSwitch
+                0x00000000       0x24 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_ReadNoLock
+                0x00000000       0xb4 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_Read
+                0x00000000       0x24 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteSkipNoLock
+                0x00000000      0x120 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteString
+                0x00000000       0x18 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_GetKey
+                0x00000000       0x24 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_WaitKey
+                0x00000000        0xc _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasKey
+                0x00000000       0x24 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_HasData
+                0x00000000       0x20 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigUpBuffer
+                0x00000000       0x78 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_ConfigDownBuffer
+                0x00000000       0x6c _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameUpBuffer
+                0x00000000       0x4c _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetNameDownBuffer
+                0x00000000       0x4c _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_Init
+                0x00000000       0x14 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_SetTerminal
+                0x00000000       0x90 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_TerminalOut
+                0x00000000       0xf4 _build/SEGGER_RTT.o
+ .bss._ActiveTerminal
+                0x00000000        0x1 _build/SEGGER_RTT.o
+ .rodata._aTerminalId
+                0x00000000       0x10 _build/SEGGER_RTT.o
+ .text          0x00000000        0x0 _build/SEGGER_RTT_printf.o
+ .data          0x00000000        0x0 _build/SEGGER_RTT_printf.o
+ .bss           0x00000000        0x0 _build/SEGGER_RTT_printf.o
+ .data          0x00000000        0x0 _build/gcc_startup_nrf52.o
+ .bss           0x00000000        0x0 _build/gcc_startup_nrf52.o
+ .ARM.extab     0x00000000        0x0 _build/gcc_startup_nrf52.o
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-freer.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-freer.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strcpy.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strlen.o)
+ .text.strlen   0x00000000       0x10 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strlen.o)
+ .debug_frame   0x00000000       0x20 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1a d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xb4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .jcr           0x00000000        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .text          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0001c000         0x00064000         xr
+RAM              0x20003db0         0x0000c250         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+
+.text           0x0001c000     0x60c0
+ *(.Vectors)
+ .Vectors       0x0001c000      0x400 _build/gcc_startup_nrf52.o
+                0x0001c000                __Vectors
+ *(.text*)
+ .text          0x0001c400       0x5c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .text          0x0001c45c       0x74 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x0001c45c                _start
+                0x0001c45c                _mainCRTStartup
+ .text.exit     0x0001c4d0       0x28 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+                0x0001c4d0                exit
+ .text.__libc_init_array
+                0x0001c4f8       0x4c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+                0x0001c4f8                __libc_init_array
+ .text.memset   0x0001c544       0x10 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+                0x0001c544                memset
+ .text._exit    0x0001c554        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+                0x0001c554                _exit
+ .text._Power_Sleep
+                0x0001c558        0xc _build/main.o
+ .text._Power_IntConfigure
+                0x0001c564       0x30 _build/main.o
+ .text._Power_IntClear
+                0x0001c594       0x20 _build/main.o
+ .text._Power_IntStatus
+                0x0001c5b4       0x20 _build/main.o
+ .text._Power_IntHandler
+                0x0001c5d4        0xc _build/main.o
+ .text.Power_handler
+                0x0001c5e0       0x64 _build/main.o
+ .text._get_deviceid
+                0x0001c644       0x24 _build/main.o
+                0x0001c644                _get_deviceid
+ .text._power_handler
+                0x0001c668       0x14 _build/main.o
+                0x0001c668                _power_handler
+ .text.CreatePowerDevice
+                0x0001c67c       0x48 _build/main.o
+                0x0001c67c                CreatePowerDevice
+ .text.main     0x0001c6c4      0x6a4 _build/main.o
+                0x0001c6c4                main
+ .text.HardFault_Handler
+                0x0001cd68        0x4 _build/main.o
+                0x0001cd68                HardFault_Handler
+ .text.NMI_Handler
+                0x0001cd6c        0x4 _build/main.o
+                0x0001cd6c                NMI_Handler
+ .text.MemoryManagement_Handler
+                0x0001cd70       0x14 _build/main.o
+                0x0001cd70                MemoryManagement_Handler
+ .text.BusFault_Handler
+                0x0001cd84       0x14 _build/main.o
+                0x0001cd84                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0001cd98       0x14 _build/main.o
+                0x0001cd98                UsageFault_Handler
+ .text.Int_Configure
+                0x0001cdac       0x48 _build/I_Int.o
+                0x0001cdac                Int_Configure
+ .text.Int_Pend
+                0x0001cdf4       0x30 _build/I_Int.o
+                0x0001cdf4                Int_Pend
+ .text.Int_Status
+                0x0001ce24       0x44 _build/I_Int.o
+                0x0001ce24                Int_Status
+ .text.Int_SoftTrigger
+                0x0001ce68        0x4 _build/I_Int.o
+                0x0001ce68                Int_SoftTrigger
+ .text.Int_IntHandler
+                0x0001ce6c       0xb0 _build/I_Int.o
+                0x0001ce6c                Int_IntHandler
+ .text.UARTE0_UART0_IRQHandler
+                0x0001cf1c       0x10 _build/I_Int.o
+                0x0001cf1c                UARTE0_UART0_IRQHandler
+ .text.SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+                0x0001cf2c       0x10 _build/I_Int.o
+                0x0001cf2c                SPIM0_SPIS0_TWIM0_TWIS0_SPI0_TWI0_IRQHandler
+ .text.SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+                0x0001cf3c       0x1c _build/I_Int.o
+                0x0001cf3c                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
+ .text.SPIM2_SPIS2_SPI2_IRQHandler
+                0x0001cf58       0x10 _build/I_Int.o
+                0x0001cf58                SPIM2_SPIS2_SPI2_IRQHandler
+ .text.POWER_CLOCK_IRQHandler
+                0x0001cf68       0x10 _build/I_Int.o
+                0x0001cf68                POWER_CLOCK_IRQHandler
+ .text.SAADC_IRQHandler
+                0x0001cf78       0x10 _build/I_Int.o
+                0x0001cf78                SAADC_IRQHandler
+ .text.TIMER0_IRQHandler
+                0x0001cf88       0x10 _build/I_Int.o
+                0x0001cf88                TIMER0_IRQHandler
+ .text.TIMER1_IRQHandler
+                0x0001cf98       0x10 _build/I_Int.o
+                0x0001cf98                TIMER1_IRQHandler
+ .text.TIMER2_IRQHandler
+                0x0001cfa8       0x10 _build/I_Int.o
+                0x0001cfa8                TIMER2_IRQHandler
+ .text.TIMER3_IRQHandler
+                0x0001cfb8       0x10 _build/I_Int.o
+                0x0001cfb8                TIMER3_IRQHandler
+ .text.TIMER4_IRQHandler
+                0x0001cfc8       0x10 _build/I_Int.o
+                0x0001cfc8                TIMER4_IRQHandler
+ .text.CreateIntDevice
+                0x0001cfd8       0x2c _build/I_Int.o
+                0x0001cfd8                CreateIntDevice
+ .text._ADC_set_pin
+                0x0001d004        0xc _build/ADC.o
+ .text._ADC_set_samplerate
+                0x0001d010        0x8 _build/ADC.o
+ .text._ADC_set_resolution
+                0x0001d018        0x8 _build/ADC.o
+ .text._ADC_set_config
+                0x0001d020       0x24 _build/ADC.o
+ .text._ADC_set_stop
+                0x0001d044        0x8 _build/ADC.o
+ .text._ADC_set_start
+                0x0001d04c        0x8 _build/ADC.o
+ .text._ADC_set_int
+                0x0001d054        0x8 _build/ADC.o
+ .text._ADC_clear_int_status
+                0x0001d05c       0x6c _build/ADC.o
+ .text._ADC_get_int_status
+                0x0001d0c8       0x5c _build/ADC.o
+ .text._ADC_IntConfigure
+                0x0001d124       0x24 _build/ADC.o
+ .text._ADC_IntClear
+                0x0001d148        0x8 _build/ADC.o
+ .text._ADC_IntStatus
+                0x0001d150        0x8 _build/ADC.o
+ .text.ADChandler
+                0x0001d158       0xd8 _build/ADC.o
+                0x0001d158                ADChandler
+ .text._ADC_set_sample
+                0x0001d230        0x8 _build/ADC.o
+                0x0001d230                _ADC_set_sample
+ .text._ADC_Sample
+                0x0001d238      0x164 _build/ADC.o
+ .text._ADC_set_enable
+                0x0001d39c        0x8 _build/ADC.o
+                0x0001d39c                _ADC_set_enable
+ .text._ADC_Configure
+                0x0001d3a4       0x64 _build/ADC.o
+ .text._ADC_set_buffer
+                0x0001d408        0xc _build/ADC.o
+                0x0001d408                _ADC_set_buffer
+ .text.CreateADCDevice
+                0x0001d414       0xac _build/ADC.o
+                0x0001d414                CreateADCDevice
+ .text._Delay_start
+                0x0001d4c0       0x20 _build/Delayobject.o
+ .text._Delay_Routine
+                0x0001d4e0       0x90 _build/Delayobject.o
+ .text._Delay_ParameterInitial
+                0x0001d570       0x2c _build/Delayobject.o
+                0x0001d570                _Delay_ParameterInitial
+ .text.CreateDelayobject
+                0x0001d59c       0x24 _build/Delayobject.o
+                0x0001d59c                CreateDelayobject
+ .text._Exflash_Startup
+                0x0001d5c0       0x4c _build/Flash.o
+ .text._Exflash_Routine
+                0x0001d60c      0x34c _build/Flash.o
+                0x0001d60c                _Exflash_Routine
+ .text._Flash_ParameterInitial
+                0x0001d958       0x50 _build/Flash.o
+                0x0001d958                _Flash_ParameterInitial
+ .text.CreateExFlashHandshakeModule
+                0x0001d9a8       0x50 _build/Flash.o
+                0x0001d9a8                CreateExFlashHandshakeModule
+ .text._Sha_ParameterInitial
+                0x0001d9f8       0x54 _build/GetShaID.o
+                0x0001d9f8                _Sha_ParameterInitial
+ .text._sha_cleanbus
+                0x0001da4c       0xec _build/GetShaID.o
+                0x0001da4c                _sha_cleanbus
+ .text._ShaID_Startup
+                0x0001db38       0x64 _build/GetShaID.o
+ .text._SHAID_Routine
+                0x0001db9c      0x834 _build/GetShaID.o
+ .text.CreateShaHandshakeModule
+                0x0001e3d0       0x50 _build/GetShaID.o
+                0x0001e3d0                CreateShaHandshakeModule
+ .text._UART_Receive
+                0x0001e420        0xc _build/I_UART.o
+ .text._UART_IntConfigure
+                0x0001e42c       0x2c _build/I_UART.o
+ .text._UART_IntClear
+                0x0001e458       0x34 _build/I_UART.o
+ .text._UART_IntStatus
+                0x0001e48c       0x70 _build/I_UART.o
+ .text._UART_ReceiveIntHandler
+                0x0001e4fc        0xc _build/I_UART.o
+                0x0001e4fc                _UART_ReceiveIntHandler
+ .text.UartHandler
+                0x0001e508       0xc0 _build/I_UART.o
+                0x0001e508                UartHandler
+ .text.getstepuart
+                0x0001e5c8       0x18 _build/I_UART.o
+                0x0001e5c8                getstepuart
+ .text.getflaguart
+                0x0001e5e0       0x18 _build/I_UART.o
+                0x0001e5e0                getflaguart
+ .text._UART_Send
+                0x0001e5f8       0x9c _build/I_UART.o
+ .text._UART_Start
+                0x0001e694       0xbc _build/I_UART.o
+                0x0001e694                _UART_Start
+ .text._UART_Configure
+                0x0001e750       0x78 _build/I_UART.o
+ .text.CreateUARTDevice
+                0x0001e7c8       0x9c _build/I_UART.o
+                0x0001e7c8                CreateUARTDevice
+ .text._uart_startup
+                0x0001e864       0x70 _build/UARTTXRX.o
+ .text.app_UART_IntHandler
+                0x0001e8d4       0xd0 _build/UARTTXRX.o
+                0x0001e8d4                app_UART_IntHandler
+ .text._uarttxrx_ParameterInitial
+                0x0001e9a4       0x68 _build/UARTTXRX.o
+ .text._UARTTXRX_ReceiveRoutine
+                0x0001ea0c       0x9c _build/UARTTXRX.o
+                0x0001ea0c                _UARTTXRX_ReceiveRoutine
+ .text._UARTTXRX_SendRoutine
+                0x0001eaa8      0x2fc _build/UARTTXRX.o
+ .text.CreateUARTTXRXDevice
+                0x0001eda4       0x50 _build/UARTTXRX.o
+                0x0001eda4                CreateUARTTXRXDevice
+ .text._Get     0x0001edf4       0x74 _build/Model.o
+ .text._Set     0x0001ee68       0x44 _build/Model.o
+ .text._NewModel
+                0x0001eeac       0x34 _build/Model.o
+ .text.CreateModelDevice
+                0x0001eee0       0x2c _build/Model.o
+                0x0001eee0                CreateModelDevice
+ .text.wheellock
+                0x0001ef0c       0x2c _build/test.o
+                0x0001ef0c                wheellock
+ .text.MCUPowerOn
+                0x0001ef38       0x2c _build/test.o
+                0x0001ef38                MCUPowerOn
+ .text.nMosOn   0x0001ef64       0x2c _build/test.o
+                0x0001ef64                nMosOn
+ .text.TrickleChargetestOn
+                0x0001ef90       0x2c _build/test.o
+                0x0001ef90                TrickleChargetestOn
+ .text.I2CresetOn
+                0x0001efbc       0x2c _build/test.o
+                0x0001efbc                I2CresetOn
+ .text.GetDeviceID
+                0x0001efe8       0x28 _build/test.o
+                0x0001efe8                GetDeviceID
+ .text.getskuid
+                0x0001f010       0x38 _build/test.o
+                0x0001f010                getskuid
+ .text._test_Routine
+                0x0001f048      0x2ec _build/test.o
+                0x0001f048                _test_Routine
+ .text.CreatetesteModule
+                0x0001f334       0x48 _build/test.o
+                0x0001f334                CreatetesteModule
+ .text.nrf_twi_task_set
+                0x0001f37c        0x8 _build/I_I2C.o
+ .text.nrf_twi_rxd_get
+                0x0001f384        0x8 _build/I_I2C.o
+ .text._I2C_Configure
+                0x0001f38c       0x14 _build/I_I2C.o
+                0x0001f38c                _I2C_Configure
+ .text._I2C_IntClear
+                0x0001f3a0       0x54 _build/I_I2C.o
+                0x0001f3a0                _I2C_IntClear
+ .text._I2C_IntConfigure
+                0x0001f3f4       0x3c _build/I_I2C.o
+                0x0001f3f4                _I2C_IntConfigure
+ .text._I2C_IntStatus
+                0x0001f430       0x70 _build/I_I2C.o
+                0x0001f430                _I2C_IntStatus
+ .text.nrf_twi_shorts_set
+                0x0001f4a0        0xc _build/I_I2C.o
+                0x0001f4a0                nrf_twi_shorts_set
+ .text.nrf_twi_shorts_clear
+                0x0001f4ac       0x10 _build/I_I2C.o
+                0x0001f4ac                nrf_twi_shorts_clear
+ .text._I2C_StartTXRX
+                0x0001f4bc       0x60 _build/I_I2C.o
+                0x0001f4bc                _I2C_StartTXRX
+ .text.getferrori2c
+                0x0001f51c       0x28 _build/I_I2C.o
+                0x0001f51c                getferrori2c
+ .text.getfrxdi2c
+                0x0001f544       0x28 _build/I_I2C.o
+                0x0001f544                getfrxdi2c
+ .text.I2C0Handler
+                0x0001f56c       0xec _build/I_I2C.o
+                0x0001f56c                I2C0Handler
+ .text.getfsenti2c
+                0x0001f658       0x28 _build/I_I2C.o
+                0x0001f658                getfsenti2c
+ .text.getfstopi2c
+                0x0001f680       0x28 _build/I_I2C.o
+                0x0001f680                getfstopi2c
+ .text.getstepi2c
+                0x0001f6a8       0x28 _build/I_I2C.o
+                0x0001f6a8                getstepi2c
+ .text._I2C_Send
+                0x0001f6d0      0x14c _build/I_I2C.o
+                0x0001f6d0                _I2C_Send
+ .text.getstepi2c_1
+                0x0001f81c       0x28 _build/I_I2C.o
+                0x0001f81c                getstepi2c_1
+ .text._I2C_Receive
+                0x0001f844      0x1bc _build/I_I2C.o
+                0x0001f844                _I2C_Receive
+ .text.CreateI2CDevice
+                0x0001fa00       0x48 _build/I_I2C.o
+                0x0001fa00                CreateI2CDevice
+ .text._TIMER_Configure
+                0x0001fa48       0xc4 _build/I_Timer.o
+ .text._TIMER_IntConfigure
+                0x0001fb0c       0xa4 _build/I_Timer.o
+ .text._TIMER_IntClear
+                0x0001fbb0       0x40 _build/I_Timer.o
+ .text._TIMER_IntStatus
+                0x0001fbf0       0x50 _build/I_Timer.o
+ .text._TIMER_Stop
+                0x0001fc40        0x8 _build/I_Timer.o
+ .text._TIMER_Clear
+                0x0001fc48        0x8 _build/I_Timer.o
+ .text.getsteptimer
+                0x0001fc50       0x60 _build/I_Timer.o
+                0x0001fc50                getsteptimer
+ .text.getflagtimer
+                0x0001fcb0       0x60 _build/I_Timer.o
+                0x0001fcb0                getflagtimer
+ .text._timer_handler
+                0x0001fd10       0x7c _build/I_Timer.o
+ .text.TIMER0Handler
+                0x0001fd8c       0x10 _build/I_Timer.o
+                0x0001fd8c                TIMER0Handler
+ .text.TIMER1Handler
+                0x0001fd9c       0x10 _build/I_Timer.o
+                0x0001fd9c                TIMER1Handler
+ .text.TIMER2Handler
+                0x0001fdac       0x10 _build/I_Timer.o
+                0x0001fdac                TIMER2Handler
+ .text.TIMER3Handler
+                0x0001fdbc       0x10 _build/I_Timer.o
+                0x0001fdbc                TIMER3Handler
+ .text.TIMER4Handler
+                0x0001fdcc       0x10 _build/I_Timer.o
+                0x0001fdcc                TIMER4Handler
+ .text._TIMER_Start
+                0x0001fddc       0x60 _build/I_Timer.o
+ .text.CreateTimerDevice
+                0x0001fe3c       0x90 _build/I_Timer.o
+                0x0001fe3c                CreateTimerDevice
+ .text._IO_Configure
+                0x0001fecc       0x2c _build/I_IO.o
+                0x0001fecc                _IO_Configure
+ .text._IO_PinWrite
+                0x0001fef8       0x24 _build/I_IO.o
+                0x0001fef8                _IO_PinWrite
+ .text._IO_PinRead
+                0x0001ff1c       0x14 _build/I_IO.o
+                0x0001ff1c                _IO_PinRead
+ .text.CreateIODevice
+                0x0001ff30       0x64 _build/I_IO.o
+                0x0001ff30                CreateIODevice
+ .text._SPIM_IntConfigure
+                0x0001ff94       0x2c _build/I_SPIM.o
+                0x0001ff94                _SPIM_IntConfigure
+ .text._SPIM_Configure
+                0x0001ffc0       0x8c _build/I_SPIM.o
+                0x0001ffc0                _SPIM_Configure
+ .text.getstepspim
+                0x0002004c       0x34 _build/I_SPIM.o
+                0x0002004c                getstepspim
+ .text.getflagspim
+                0x00020080       0x34 _build/I_SPIM.o
+                0x00020080                getflagspim
+ .text._SPIM_Transmit
+                0x000200b4       0x68 _build/I_SPIM.o
+                0x000200b4                _SPIM_Transmit
+ .text._SPIM_IntClear
+                0x0002011c        0xc _build/I_SPIM.o
+                0x0002011c                _SPIM_IntClear
+ .text._SPIM_IntStatus
+                0x00020128       0x14 _build/I_SPIM.o
+                0x00020128                _SPIM_IntStatus
+ .text.SPI1Handler
+                0x0002013c       0x24 _build/I_SPIM.o
+                0x0002013c                SPI1Handler
+ .text.CreateSPIMDevice
+                0x00020160       0x68 _build/I_SPIM.o
+                0x00020160                CreateSPIMDevice
+ .text._CRC_ParameterInitial
+                0x000201c8       0x30 _build/CRC.o
+                0x000201c8                _CRC_ParameterInitial
+ .text.crc_16bit
+                0x000201f8      0x2dc _build/CRC.o
+                0x000201f8                crc_16bit
+ .text.CreateCRCDevice
+                0x000204d4       0x1c _build/CRC.o
+                0x000204d4                CreateCRCDevice
+ .text._PT_Startup
+                0x000204f0       0x50 _build/PT.o
+ .text._PT_ParameterInitial
+                0x00020540       0x5c _build/PT.o
+                0x00020540                _PT_ParameterInitial
+ .text._PT_alarm_Routine
+                0x0002059c      0x1a8 _build/PT.o
+                0x0002059c                _PT_alarm_Routine
+ .text._PT_Routine
+                0x00020744      0x508 _build/PT.o
+                0x00020744                _PT_Routine
+ .text.CreatePTHandshakeModule
+                0x00020c4c       0x50 _build/PT.o
+                0x00020c4c                CreatePTHandshakeModule
+ .text._GetAt   0x00020c9c       0x1c _build/DataStruct.o
+                0x00020c9c                _GetAt
+ .text._Insert  0x00020cb8       0x34 _build/DataStruct.o
+                0x00020cb8                _Insert
+ .text._GetFirst
+                0x00020cec       0x24 _build/DataStruct.o
+                0x00020cec                _GetFirst
+ .text._RemoveAt
+                0x00020d10       0x2c _build/DataStruct.o
+                0x00020d10                _RemoveAt
+ .text._Clean   0x00020d3c       0x20 _build/DataStruct.o
+                0x00020d3c                _Clean
+ .text.CreateListMoudle
+                0x00020d5c       0x2c _build/DataStruct.o
+                0x00020d5c                CreateListMoudle
+ .text._Pro_ParameterInitial
+                0x00020d88       0x58 _build/ProtectionICModule.o
+                0x00020d88                _Pro_ParameterInitial
+ .text._protection_cleanbus
+                0x00020de0       0xec _build/ProtectionICModule.o
+                0x00020de0                _protection_cleanbus
+ .text._ProtectionIC_Startup
+                0x00020ecc       0x70 _build/ProtectionICModule.o
+ .text._ProtectionIC_Routine
+                0x00020f3c      0x4a0 _build/ProtectionICModule.o
+ .text.CreatePreotectionHandshakeModule
+                0x000213dc       0x50 _build/ProtectionICModule.o
+                0x000213dc                CreatePreotectionHandshakeModule
+ .text.NVIC_SystemReset
+                0x0002142c       0x20 _build/system_nrf52.o
+ .text.errata_31
+                0x0002144c       0x70 _build/system_nrf52.o
+ .text.errata_32
+                0x000214bc       0x4c _build/system_nrf52.o
+ .text.errata_36
+                0x00021508       0x70 _build/system_nrf52.o
+ .text.errata_37
+                0x00021578       0x4c _build/system_nrf52.o
+ .text.errata_66
+                0x000215c4       0x4c _build/system_nrf52.o
+ .text.SystemCoreClockUpdate
+                0x00021610       0x10 _build/system_nrf52.o
+                0x00021610                SystemCoreClockUpdate
+ .text.SystemInit
+                0x00021620      0x1d0 _build/system_nrf52.o
+                0x00021620                SystemInit
+ .text._GetAvailWriteSpace
+                0x000217f0       0x18 _build/SEGGER_RTT.o
+ .text._WriteNoCheck
+                0x00021808       0x44 _build/SEGGER_RTT.o
+ .text._WriteBlocking
+                0x0002184c       0x5c _build/SEGGER_RTT.o
+ .text._DoInit  0x000218a8       0x60 _build/SEGGER_RTT.o
+ .text.SEGGER_RTT_WriteNoLock
+                0x00021908       0x70 _build/SEGGER_RTT.o
+                0x00021908                SEGGER_RTT_WriteNoLock
+ .text.SEGGER_RTT_Write
+                0x00021978       0x3c _build/SEGGER_RTT.o
+                0x00021978                SEGGER_RTT_Write
+ .text._StoreChar
+                0x000219b4       0x40 _build/SEGGER_RTT_printf.o
+ .text._PrintUnsigned
+                0x000219f4       0xe4 _build/SEGGER_RTT_printf.o
+ .text._PrintInt
+                0x00021ad8       0xe0 _build/SEGGER_RTT_printf.o
+ .text.SEGGER_RTT_vprintf
+                0x00021bb8      0x1b0 _build/SEGGER_RTT_printf.o
+                0x00021bb8                SEGGER_RTT_vprintf
+ .text.SEGGER_RTT_printf
+                0x00021d68       0x20 _build/SEGGER_RTT_printf.o
+                0x00021d68                SEGGER_RTT_printf
+ .text          0x00021d88       0x44 _build/gcc_startup_nrf52.o
+                0x00021d88                Reset_Handler
+                0x00021dc2                SVC_Handler
+                0x00021dc4                PendSV_Handler
+                0x00021dc6                SysTick_Handler
+                0x00021dc8                PWM1_IRQHandler
+                0x00021dc8                GPIOTE_IRQHandler
+                0x00021dc8                SWI2_EGU2_IRQHandler
+                0x00021dc8                SWI0_EGU0_IRQHandler
+                0x00021dc8                PDM_IRQHandler
+                0x00021dc8                TEMP_IRQHandler
+                0x00021dc8                QDEC_IRQHandler
+                0x00021dc8                I2S_IRQHandler
+                0x00021dc8                SWI4_EGU4_IRQHandler
+                0x00021dc8                RADIO_IRQHandler
+                0x00021dc8                PWM2_IRQHandler
+                0x00021dc8                ECB_IRQHandler
+                0x00021dc8                Default_Handler
+                0x00021dc8                CCM_AAR_IRQHandler
+                0x00021dc8                WDT_IRQHandler
+                0x00021dc8                RTC0_IRQHandler
+                0x00021dc8                SWI5_EGU5_IRQHandler
+                0x00021dc8                RNG_IRQHandler
+                0x00021dc8                RTC2_IRQHandler
+                0x00021dc8                PWM0_IRQHandler
+                0x00021dc8                SWI3_EGU3_IRQHandler
+                0x00021dc8                RTC1_IRQHandler
+                0x00021dc8                SWI1_EGU1_IRQHandler
+                0x00021dc8                NFCT_IRQHandler
+                0x00021dc8                MWU_IRQHandler
+                0x00021dc8                COMP_LPCOMP_IRQHandler
+ .text.malloc   0x00021dcc       0x10 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+                0x00021dcc                malloc
+ .text.free     0x00021ddc       0x10 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+                0x00021ddc                free
+ .text.memcpy   0x00021dec       0x16 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memcpy.o)
+                0x00021dec                memcpy
+ *fill*         0x00021e02        0x2 
+ .text._free_r  0x00021e04       0x88 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-freer.o)
+                0x00021e04                _free_r
+ .text._malloc_r
+                0x00021e8c       0xac d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+                0x00021e8c                _malloc_r
+ .text._sbrk_r  0x00021f38       0x20 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o)
+                0x00021f38                _sbrk_r
+ .text.strcpy   0x00021f58       0x10 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strcpy.o)
+                0x00021f58                strcpy
+ .text._sbrk    0x00021f68       0x1c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
+                0x00021f68                _sbrk
+ *(.init)
+ .init          0x00021f84        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x00021f84                _init
+ .init          0x00021f88        0x8 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x00021f90        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+                0x00021f90                _fini
+ .fini          0x00021f94        0x8 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00021f9c        0x2 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ *fill*         0x00021f9e        0x2 
+ .rodata._global_impure_ptr
+                0x00021fa0        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+                0x00021fa0                _global_impure_ptr
+ .rodata.str1.4
+                0x00021fa4       0x17 _build/main.o
+                                 0x18 (size before relaxing)
+ *fill*         0x00021fbb        0x1 
+ .rodata.str1.4
+                0x00021fbc        0xd _build/I_Int.o
+                                 0x1c (size before relaxing)
+ *fill*         0x00021fc9        0x3 
+ .rodata.str1.4
+                0x00021fcc        0x9 _build/ADC.o
+                                  0xc (size before relaxing)
+ *fill*         0x00021fd5        0x3 
+ .rodata.str1.4
+                0x00021fd8        0x8 _build/Flash.o
+ .rodata.str1.4
+                0x00021fe0       0x34 _build/GetShaID.o
+ .rodata.str1.4
+                0x00022014        0xa _build/I_UART.o
+                                  0xc (size before relaxing)
+ *fill*         0x0002201e        0x2 
+ .rodata.str1.4
+                0x00022020       0x14 _build/UARTTXRX.o
+                                 0x20 (size before relaxing)
+ .rodata.str1.4
+                0x00022034       0x15 _build/test.o
+                                 0x18 (size before relaxing)
+ *fill*         0x00022049        0x3 
+ .rodata.str1.4
+                0x0002204c       0x16 _build/I_I2C.o
+                                 0x18 (size before relaxing)
+ *fill*         0x00022062        0x2 
+ .rodata.str1.4
+                0x00022064        0x9 _build/CRC.o
+                                  0xc (size before relaxing)
+ *fill*         0x0002206d        0x3 
+ .rodata.str1.4
+                0x00022070        0x7 _build/PT.o
+                                  0x8 (size before relaxing)
+ *fill*         0x00022077        0x1 
+ .rodata.str1.4
+                0x00022078       0x1f _build/ProtectionICModule.o
+                                 0x28 (size before relaxing)
+ *fill*         0x00022097        0x1 
+ .rodata.str1.4
+                0x00022098       0x18 _build/SEGGER_RTT.o
+ .rodata._aV2C.4323
+                0x000220b0       0x10 _build/SEGGER_RTT_printf.o
+ *(.eh_frame*)
+ .eh_frame      0x000220c0        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x000220c0                . = ALIGN (0x4)
+
+.glue_7         0x000220c0        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x000220c0        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x000220c0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000220c0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000220c0        0x0
+ .iplt          0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.ARM.extab      0x000220c0        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000220c0                . = ALIGN (0x4)
+                0x000220c0                __exidx_start = .
+
+.ARM.exidx      0x000220c0        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000220c0        0x8 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x000220c8        0x0 _build/gcc_startup_nrf52.o
+                                  0x8 (size before relaxing)
+                0x000220c8                . = ALIGN (0x4)
+                0x000220c8                __exidx_end = .
+                0x000220c8                __etext = .
+
+.rel.dyn        0x000220c8        0x0
+ .rel.iplt      0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.data           0x20003db0      0x174 load address 0x000220c8
+                0x20003db0                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x20003db0       0x60 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20003e10        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+                0x20003e10                _impure_ptr
+ .data.iopin    0x20003e14       0x20 _build/main.o
+                0x20003e14                iopin
+ .data.iobufferconnected
+                0x20003e34       0x20 _build/main.o
+                0x20003e34                iobufferconnected
+ .data.iolength
+                0x20003e54       0x20 _build/main.o
+                0x20003e54                iolength
+ .data.ioport   0x20003e74       0x80 _build/main.o
+                0x20003e74                ioport
+ .data.iomode   0x20003ef4       0x20 _build/main.o
+                0x20003ef4                iomode
+ .data.NRF_GPIO
+                0x20003f14        0x4 _build/I_IO.o
+                0x20003f14                NRF_GPIO
+ .data.SystemCoreClock
+                0x20003f18        0x4 _build/system_nrf52.o
+                0x20003f18                SystemCoreClock
+                0x20003f1c                . = ALIGN (0x4)
+                0x20003f1c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20003f1c                PROVIDE (__preinit_array_end, .)
+                0x20003f1c                . = ALIGN (0x4)
+                0x20003f1c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x20003f1c        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x20003f20                PROVIDE (__init_array_end, .)
+                0x20003f20                . = ALIGN (0x4)
+                0x20003f20                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20003f20        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x20003f24                PROVIDE (__fini_array_end, .)
+ *(.jcr)
+ .jcr           0x20003f24        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+                0x20003f24                . = ALIGN (0x4)
+                0x20003f24                __data_end__ = .
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+LOAD _build/main.o
+LOAD _build/I_Int.o
+LOAD _build/ADC.o
+LOAD _build/Delayobject.o
+LOAD _build/Flash.o
+LOAD _build/GetShaID.o
+LOAD _build/I_UART.o
+LOAD _build/UARTTXRX.o
+LOAD _build/Model.o
+LOAD _build/test.o
+LOAD _build/I_I2C.o
+LOAD _build/I_Timer.o
+LOAD _build/I_IO.o
+LOAD _build/I_SPIM.o
+LOAD _build/CRC.o
+LOAD _build/PT.o
+LOAD _build/DataStruct.o
+LOAD _build/ProtectionICModule.o
+LOAD _build/system_nrf52.o
+LOAD _build/RTT_Syscalls_GCC.o
+LOAD _build/SEGGER_RTT.o
+LOAD _build/SEGGER_RTT_printf.o
+LOAD _build/gcc_startup_nrf52.o
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+START GROUP
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu\libgcc.a
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a
+END GROUP
+START GROUP
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu\libgcc.a
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a
+END GROUP
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtend.o
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+START GROUP
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu\libgcc.a
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+LOAD d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a
+END GROUP
+
+.igot.plt       0x20003f24        0x0 load address 0x0002223c
+ .igot.plt      0x00000000        0x0 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+
+.fs_data        0x20003f24        0x0
+                0x20003f24                PROVIDE (__start_fs_data, .)
+ *(.fs_data)
+                0x20003f24                PROVIDE (__stop_fs_data, .)
+
+.bss            0x20003f24      0x8dc load address 0x0002223c
+                0x20003f24                . = ALIGN (0x4)
+                0x20003f24                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20003f24       0x1c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .bss._power_raiseevent
+                0x20003f40        0x4 _build/main.o
+ .bss.iotype    0x20003f44       0x20 _build/main.o
+                0x20003f44                iotype
+ .bss.power_handler
+                0x20003f64        0x4 _build/I_Int.o
+ .bss.adc_handler
+                0x20003f68        0x4 _build/I_Int.o
+ .bss.timer1_handler
+                0x20003f6c        0x4 _build/I_Int.o
+ .bss.spi2_handler
+                0x20003f70        0x4 _build/I_Int.o
+ .bss.spi0_handler
+                0x20003f74        0x4 _build/I_Int.o
+ .bss.uart_handler
+                0x20003f78        0x4 _build/I_Int.o
+ .bss.timer3_handler
+                0x20003f7c        0x4 _build/I_Int.o
+ .bss.timer2_handler
+                0x20003f80        0x4 _build/I_Int.o
+ .bss.timer4_handler
+                0x20003f84        0x4 _build/I_Int.o
+ .bss.timer0_handler
+                0x20003f88        0x4 _build/I_Int.o
+ .bss.spi1_handler
+                0x20003f8c        0x4 _build/I_Int.o
+ .bss._started_adc
+                0x20003f90        0x1 _build/ADC.o
+ *fill*         0x20003f91        0x3 
+ .bss._adcvalue
+                0x20003f94       0x10 _build/ADC.o
+ .bss._step_adc
+                0x20003fa4        0x8 _build/ADC.o
+ .bss._adcvalue_ready
+                0x20003fac        0x8 _build/ADC.o
+ .bss._stopped_adc
+                0x20003fb4        0x1 _build/ADC.o
+ *fill*         0x20003fb5        0x3 
+ .bss._adcchannel_active
+                0x20003fb8        0x8 _build/ADC.o
+ .bss._done_adc
+                0x20003fc0        0x1 _build/ADC.o
+ .bss._end_adc  0x20003fc1        0x1 _build/ADC.o
+ *fill*         0x20003fc2        0x2 
+ .bss._f_send_uart
+                0x20003fc4        0x4 _build/I_UART.o
+ .bss._rx_enable
+                0x20003fc8        0x1 _build/I_UART.o
+ .bss._tx_suspend
+                0x20003fc9        0x1 _build/I_UART.o
+ *fill*         0x20003fca        0x2 
+ .bss._rxbufferLength
+                0x20003fcc        0x4 _build/I_UART.o
+ .bss._uart_raiseevent
+                0x20003fd0        0x4 _build/I_UART.o
+ .bss._step_uart
+                0x20003fd4        0x4 _build/I_UART.o
+ .bss._fifoenable
+                0x20003fd8        0x1 _build/I_UART.o
+ .bss._tx_enalbe
+                0x20003fd9        0x1 _build/I_UART.o
+ .bss._tx_busy  0x20003fda        0x1 _build/I_UART.o
+ *fill*         0x20003fdb        0x1 
+ .bss._txbufferLength
+                0x20003fdc        0x4 _build/I_UART.o
+ .bss._uart_enable
+                0x20003fe0        0x1 _build/I_UART.o
+ *fill*         0x20003fe1        0x3 
+ .bss._step1_i2c
+                0x20003fe4        0x4 _build/I_I2C.o
+ .bss._f_txdsent
+                0x20003fe8        0x4 _build/I_I2C.o
+ .bss._f_stopped
+                0x20003fec        0x4 _build/I_I2C.o
+ .bss._f_error  0x20003ff0        0x4 _build/I_I2C.o
+ .bss._f_rxdready
+                0x20003ff4        0x4 _build/I_I2C.o
+ .bss._step_i2c
+                0x20003ff8        0x4 _build/I_I2C.o
+ .bss._step_timer
+                0x20003ffc        0x8 _build/I_Timer.o
+ .bss._f_ready_timer
+                0x20004004        0x8 _build/I_Timer.o
+ .bss._f_ready  0x2000400c        0x4 _build/I_SPIM.o
+ .bss._sspin    0x20004010        0x1 _build/I_SPIM.o
+ *fill*         0x20004011        0x3 
+ .bss._step_spim
+                0x20004014        0x4 _build/I_SPIM.o
+ .bss._acDownBuffer
+                0x20004018       0x10 _build/SEGGER_RTT.o
+ .bss._acUpBuffer
+                0x20004028      0x400 _build/SEGGER_RTT.o
+ .bss.__malloc_sbrk_start
+                0x20004428        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+                0x20004428                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x2000442c        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+                0x2000442c                __malloc_free_list
+ .bss.heap_end.4079
+                0x20004430        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x20004434      0x344 _build/main.o
+                0x20004434                sha_modelcomp
+                0x20004438                delaylist
+                0x20004444                sha_crccomp
+                0x20004448                step_vbat
+                0x2000444c                test_crccomp
+                0x20004450                uart_listcomp
+                0x20004454                uarttxrxcomp
+                0x2000445c                _count1
+                0x20004460                uart_uartcomp
+                0x20004464                _tempuartreceivedata
+                0x20004468                j
+                0x2000446c                UARTComponent
+                0x20004478                test_intcomp
+                0x2000447c                _flaggetshasn
+                0x20004480                crccomp
+                0x20004488                flash_iocomponent
+                0x2000448c                _s1
+                0x20004490                pt_modelcomp
+                0x20004494                Timer_frequency
+                0x20004498                Timer_intcontroller
+                0x2000449c                I2C_intcontroller
+                0x200044a0                I2CComponent
+                0x200044b8                shacomponent
+                0x200044c0                flashlist
+                0x200044cc                flash_delaycomponent
+                0x200044d0                pt_spicomponent
+                0x200044d4                flash_modelcomp
+                0x200044d8                _tempcount
+                0x200044dc                pt_listcomp
+                0x200044e0                pro_crccomp
+                0x200044e4                DelayComponent
+                0x200044ec                test_adccomp
+                0x200044f0                _f5
+                0x200044f4                sha_iocomponent
+                0x200044f8                _temppowerflag
+                0x200044fc                test_powercomp
+                0x20004500                uart_modelcomp
+                0x20004504                _flagvbat
+                0x20004508                pro_listcomp
+                0x2000450c                l
+                0x20004510                k
+                0x20004514                devicemsbbits
+                0x20004518                _f2
+                0x2000451c                _tempadd
+                0x20004520                sha_delaycomponent
+                0x20004524                modelindex
+                0x2000452c                _flagadcstarted
+                0x20004530                modelcomponent
+                0x2000453c                _buffer
+                0x20004540                model_crccomp
+                0x20004544                _flaggetADCvalue
+                0x20004548                uartlist
+                0x20004554                pro_modelcomp
+                0x20004558                pt_crccomp
+                0x2000455c                pt_delaycomponent
+                0x20004560                _p
+                0x20004564                testcomp
+                0x20004568                devicelsbbits
+                0x2000456c                _flagadcend
+                0x20004570                uart_crccomp
+                0x20004574                _flaguarttxfinish
+                0x20004578                structindex
+                0x200045b4                CRC_listcomp
+                0x200045b8                pro_iocomponent
+                0x200045bc                i
+                0x200045c0                uartparalist
+                0x200045c4                modellist
+                0x200045d0                ADCComponent
+                0x200045d4                ADC_intcontroller
+                0x200045d8                _flaggetflashid
+                0x200045dc                testpara
+                0x2000463c                pro_delaycomponent
+                0x20004640                ADC_bufferptr
+                0x20004644                ptcomp
+                0x2000464c                pro_i2component
+                0x20004650                Delay_timercomp
+                0x20004654                listcomp
+                0x20004668                prolist
+                0x20004674                ptlist
+                0x20004680                shalist
+                0x2000468c                _temps
+                0x20004690                POWERComponent
+                0x200046a8                _f6
+                0x200046ac                INTComponent
+                0x200046c0                _tempc
+                0x200046c4                uart_iocomp
+                0x200046c8                UART_intcontroller
+                0x200046cc                uart_delaycomp
+                0x200046d0                model_listcomp
+                0x200046d4                exflashcomponent
+                0x200046dc                _flagprotectic
+                0x200046e0                _tempbyte
+                0x200046e4                TimerComponent
+                0x200046fc                _flaggetdeviceid
+                0x20004700                _flaguarttest
+                0x20004704                _flaginttest
+                0x20004708                _f
+                0x2000470c                _f1
+                0x20004710                IOComponent
+                0x2000471c                test_modelcomp
+                0x20004720                flash_crccomp
+                0x20004724                sha_listcomp
+                0x20004728                _buffer2
+                0x2000472c                SPIMComponent
+                0x2000473c                _flagi2creset
+                0x20004740                test_iocomp
+                0x20004744                SPIM_intcontroller
+                0x20004748                sha_i2component
+                0x2000474c                Power_intcontroller
+                0x20004750                _f3
+                0x20004754                m
+                0x20004758                flash_spicomponent
+                0x2000475c                ProtectionICComponent
+                0x20004764                _flagpowerrailcheck
+                0x20004768                flash_listcomp
+                0x2000476c                _f4
+                0x20004770                Delay_listcomp
+                0x20004774                pt_iocomponent
+ COMMON         0x20004778        0xc _build/CRC.o
+                0x20004778                crclist
+ COMMON         0x20004784       0x78 _build/SEGGER_RTT.o
+                0x20004784                _SEGGER_RTT
+ COMMON         0x200047fc        0x4 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+                0x200047fc                errno
+                0x20004800                . = ALIGN (0x4)
+                0x20004800                __bss_end__ = .
+
+.heap           0x20004800        0x0
+                0x20004800                __end__ = .
+                0x20004800                end = __end__
+ *(.heap*)
+ .heap          0x20004800        0x0 _build/gcc_startup_nrf52.o
+                0x20004800                __HeapLimit = .
+
+.stack_dummy    0x20004800     0x2000
+ *(.stack*)
+ .stack         0x20004800     0x2000 _build/gcc_startup_nrf52.o
+                0x20010000                __StackTop = (ORIGIN (RAM) + 0xc250)
+                0x2000e000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20010000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf52832_xxaa_s132.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000076       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000aa       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000de       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000112       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000146       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000017a       0x39 _build/main.o
+ .ARM.attributes
+                0x000001b3       0x39 _build/I_Int.o
+ .ARM.attributes
+                0x000001ec       0x39 _build/ADC.o
+ .ARM.attributes
+                0x00000225       0x39 _build/Delayobject.o
+ .ARM.attributes
+                0x0000025e       0x39 _build/Flash.o
+ .ARM.attributes
+                0x00000297       0x39 _build/GetShaID.o
+ .ARM.attributes
+                0x000002d0       0x39 _build/I_UART.o
+ .ARM.attributes
+                0x00000309       0x39 _build/UARTTXRX.o
+ .ARM.attributes
+                0x00000342       0x39 _build/Model.o
+ .ARM.attributes
+                0x0000037b       0x39 _build/test.o
+ .ARM.attributes
+                0x000003b4       0x39 _build/I_I2C.o
+ .ARM.attributes
+                0x000003ed       0x39 _build/I_Timer.o
+ .ARM.attributes
+                0x00000426       0x39 _build/I_IO.o
+ .ARM.attributes
+                0x0000045f       0x39 _build/I_SPIM.o
+ .ARM.attributes
+                0x00000498       0x39 _build/CRC.o
+ .ARM.attributes
+                0x000004d1       0x39 _build/PT.o
+ .ARM.attributes
+                0x0000050a       0x39 _build/DataStruct.o
+ .ARM.attributes
+                0x00000543       0x39 _build/ProtectionICModule.o
+ .ARM.attributes
+                0x0000057c       0x39 _build/system_nrf52.o
+ .ARM.attributes
+                0x000005b5       0x39 _build/SEGGER_RTT.o
+ .ARM.attributes
+                0x000005ee       0x39 _build/SEGGER_RTT_printf.o
+ .ARM.attributes
+                0x00000627       0x1c _build/gcc_startup_nrf52.o
+ .ARM.attributes
+                0x00000643       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000677       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000006ab       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x000006df       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000713       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000747       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000077b       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000007af       0x22 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/fpu/crtn.o
+ .ARM.attributes
+                0x000007d1       0x34 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 _build/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 _build/I_Int.o
+ .comment       0x00000000       0x71 _build/ADC.o
+ .comment       0x00000000       0x71 _build/Delayobject.o
+ .comment       0x00000000       0x71 _build/Flash.o
+ .comment       0x00000000       0x71 _build/GetShaID.o
+ .comment       0x00000000       0x71 _build/I_UART.o
+ .comment       0x00000000       0x71 _build/UARTTXRX.o
+ .comment       0x00000000       0x71 _build/Model.o
+ .comment       0x00000000       0x71 _build/test.o
+ .comment       0x00000000       0x71 _build/I_I2C.o
+ .comment       0x00000000       0x71 _build/I_Timer.o
+ .comment       0x00000000       0x71 _build/I_IO.o
+ .comment       0x00000000       0x71 _build/I_SPIM.o
+ .comment       0x00000000       0x71 _build/CRC.o
+ .comment       0x00000000       0x71 _build/PT.o
+ .comment       0x00000000       0x71 _build/DataStruct.o
+ .comment       0x00000000       0x71 _build/ProtectionICModule.o
+ .comment       0x00000000       0x71 _build/system_nrf52.o
+ .comment       0x00000000       0x71 _build/SEGGER_RTT.o
+ .comment       0x00000000       0x71 _build/SEGGER_RTT_printf.o
+
+.debug_frame    0x00000000      0x20c
+ .debug_frame   0x00000000       0x28 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000028       0x2c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000054       0x20 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000074       0x20 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(_exit.o)
+ .debug_frame   0x00000094       0x30 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x000000c4       0x28 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x000000ec       0x2c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000118       0x2c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000144       0x2c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000170       0x20 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-strcpy.o)
+ .debug_frame   0x00000190       0x5c d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x000001ec       0x20 d:/gnu tools arm embedded/4.9 2015q1/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/fpu\libnosys.a(sbrk.o)
